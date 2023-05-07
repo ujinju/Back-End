@@ -1,4 +1,6 @@
-import domain.Article;
+package fastcampus.projectboard.domain;
+
+import fastcampus.projectboard.domain.Article;
 
 import java.time.LocalDateTime;
 
